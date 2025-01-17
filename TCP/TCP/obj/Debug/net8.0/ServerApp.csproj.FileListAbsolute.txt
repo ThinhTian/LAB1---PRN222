@@ -1,0 +1,14 @@
+D:\FPT\K7\PRN222\Lab1\TCP\TCP\bin\Debug\net8.0\ServerApp.exe
+D:\FPT\K7\PRN222\Lab1\TCP\TCP\bin\Debug\net8.0\ServerApp.deps.json
+D:\FPT\K7\PRN222\Lab1\TCP\TCP\bin\Debug\net8.0\ServerApp.runtimeconfig.json
+D:\FPT\K7\PRN222\Lab1\TCP\TCP\bin\Debug\net8.0\ServerApp.dll
+D:\FPT\K7\PRN222\Lab1\TCP\TCP\bin\Debug\net8.0\ServerApp.pdb
+D:\FPT\K7\PRN222\Lab1\TCP\TCP\obj\Debug\net8.0\ServerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\K7\PRN222\Lab1\TCP\TCP\obj\Debug\net8.0\ServerApp.AssemblyInfoInputs.cache
+D:\FPT\K7\PRN222\Lab1\TCP\TCP\obj\Debug\net8.0\ServerApp.AssemblyInfo.cs
+D:\FPT\K7\PRN222\Lab1\TCP\TCP\obj\Debug\net8.0\ServerApp.csproj.CoreCompileInputs.cache
+D:\FPT\K7\PRN222\Lab1\TCP\TCP\obj\Debug\net8.0\ServerApp.dll
+D:\FPT\K7\PRN222\Lab1\TCP\TCP\obj\Debug\net8.0\refint\ServerApp.dll
+D:\FPT\K7\PRN222\Lab1\TCP\TCP\obj\Debug\net8.0\ServerApp.pdb
+D:\FPT\K7\PRN222\Lab1\TCP\TCP\obj\Debug\net8.0\ServerApp.genruntimeconfig.cache
+D:\FPT\K7\PRN222\Lab1\TCP\TCP\obj\Debug\net8.0\ref\ServerApp.dll
